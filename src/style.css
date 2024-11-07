@@ -1,0 +1,10 @@
+nav{
+    background-color: rgb(211, 180, 196); padding: 10px; margin: 15px;
+}
+p{
+    color: #d7ecfa;
+    background-color: hsl(14, 72%, 63%);
+    padding: 30px; margin: 15px;
+   font-size: 20px; font-family:Verdana, Geneva, Tahoma, sans-serif Geneva, Tahoma, sans-serif;
+  font-style: inherit; text-transform: none; letter-spacing: 1px;line-height: 50px;text-align: justify;
+}
